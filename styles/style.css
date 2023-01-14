@@ -46,6 +46,11 @@ main {
     gap: 8px;
 }
 
+hr{
+    color: #787885;
+    border-radius: 10px;
+}
+
 /* Header Styles Start */
 header {
     align-items: center;
